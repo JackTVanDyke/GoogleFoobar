@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GoogleFoobar.iml" filepath="$PROJECT_DIR$/.idea/GoogleFoobar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IonFlux/IonFlux.iml" filepath="$PROJECT_DIR$/IonFlux/IonFlux.iml" />
     </modules>
   </component>
 </project>
